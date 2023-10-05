@@ -76,7 +76,7 @@ Explore and contribute to the following repositories under different domains:
 | [Cloud-101](https://github.com/dscpesu/Cloud-101)                 | Cloud Dev          | Hacktoberfest Project               | GDSC PES Chapter   | Introduction to cloud computing.                                                              |
 
 
-If you have contributed to GDSC x Hacktoberfest You can habe this badge
+If you have contributed to GDSC x Hacktoberfest You can have this badge
 
 ![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--logomark.b91c17d2.svg)
 
