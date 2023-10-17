@@ -65,6 +65,7 @@ Explore and contribute to the following repositories under different domains:
 
 | Repo                                          | Domain            | Program                            | Maintainer         | Brief                                                                                          |
 | --------------------------------------------- | ------------------ | ---------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------- |
+| [Cloud-101](https://github.com/dscpesu/Cloud-101)                 | Cloud Dev          | Hacktoberfest Project               | GDSC PES Chapter   | Introduction to cloud computing.                                                              |
 | [SimpleML](https://github.com/dscpesu/SimpleML)                   | AI/ML              | Hacktoberfest Project               | GDSC PES Chapter   | AI/ML project for Hacktoberfest.                                                              |
 | [resumeLaTeX](https://github.com/dscpesu/resumeLaTeX)             | Web Dev            | Hacktoberfest Project               | GDSC PES Chapter   | LaTeX-based resume generator.                                                                 |
 | [my-first-opensource-contribution](https://github.com/dscpesu/my-first-opensource-contribution) | Web Dev            | Hacktoberfest Project               | GDSC PES Chapter   | Starter project for open-source contributions.                                                 |
@@ -73,7 +74,6 @@ Explore and contribute to the following repositories under different domains:
 | [FlutterFolio](https://github.com/dscpesu/FlutterFolio)           | App Dev            | Hacktoberfest Project               | GDSC PES Chapter   | Flutter-based portfolio app.                                                                   |
 | [PES-Wayfinder](https://github.com/dscpesu/PES-Wayfinder)         | AR/VR              | Hacktoberfest Project               | GDSC PES Chapter   | AR-based wayfinding application.                                                               |
 | [EscapeQuest](https://github.com/dscpesu/EscapeQuest)             | AR/VR              | Hacktoberfest Project               | GDSC PES Chapter   | AR-based escape room adventure game.                                                           |
-| [Cloud-101](https://github.com/dscpesu/Cloud-101)                 | Cloud Dev          | Hacktoberfest Project               | GDSC PES Chapter   | Introduction to cloud computing.                                                              |
 
 
 If you have contributed to GDSC x Hacktoberfest You can have this badge
